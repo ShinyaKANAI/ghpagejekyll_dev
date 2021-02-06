@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /ghpagejekyll_dev/
 - name: About
-  link: /about.html
+  link: /ghpagejekyll_dev/about.html
 - name: Blog
-  link: /blog.html
+  link: /ghpagejekyll_dev/blog.html
 - name: Staff
-  link: /staff.html
+  link: /ghpagejekyll_dev/staff.html
